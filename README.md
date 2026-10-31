@@ -20,6 +20,7 @@ This is a personal Power BI data analytics project using sample sales data to an
 - Monthly Sales Trends
 - Sales and Profit by Category
 - Actual Sales vs. Monthly Targets
+- ![Executive Overview](Executive_Overview.png)
 
 ### 2. Product Performance Analysis
 - Total Products
